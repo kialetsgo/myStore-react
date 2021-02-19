@@ -1,0 +1,67 @@
+.add-to-cart-button{
+    font-size: 15px;
+    line-height: 1.5;
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    a {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.edit-button {
+    position: relative;
+    margin-bottom: 10px;
+    #edit-button{
+        font-size: 15px;
+        line-height: 1.5;
+        color: white;
+        text-transform: uppercase;
+        width: 100%;
+        height: 50px;
+        border-radius: 25px;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0 25px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    a {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+#delete-button {
+    font-size: 15px;
+    line-height: 1.5;
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}

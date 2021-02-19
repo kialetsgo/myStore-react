@@ -1,0 +1,61 @@
+#site-header {   
+    z-index: 999;
+
+    #navbarSupportedContent {
+        z-index: 999;
+        background-color: rgb(248, 249, 250);
+    }
+
+    .navbar {
+        padding: 20px 0;
+        max-height:100px; 
+    }
+    .container{
+        margin-top: 0
+    }
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+
+        img {
+            max-width: 40px;
+            height: auto;
+            margin-left: 30px;
+        }
+    }
+
+    .nav-item {
+        padding-left: 10px;
+        padding-right:10px;
+        list-style-type: none;
+    }
+
+    // .register-login{
+    //     display: inline-block;
+    //     list-style-type: none;  
+    //     padding-top: 15px;
+    //     padding-left:
+    // }
+
+    #login-btn {
+        border-radius: 25px;
+        text-transform: uppercase;
+        background-color: #78A2CC;
+        color: white;
+        margin-right: 30px;
+    }
+
+}
+
+
+// .sticky {
+//     position: fixed;
+//     width: 100vw;
+//     top: 0; /* required */
+//     background-color: lightgrey;
+  
+//   }
+
+
+  
+  

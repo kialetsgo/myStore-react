@@ -1,0 +1,32 @@
+#site-footer {
+
+    padding: 20px 10px 0 20px; 
+    width: 100vw;
+    text-align: center;
+    color: white;
+    background-color: #444F60;
+    position: relative;
+    left: 0;
+    bottom: 0;
+
+    a {
+        color: white
+    }
+
+    a:hover {
+        color:#57b846;
+        text-decoration: none;
+    }
+
+    .container-fluid {
+        padding: 0 50px;
+    }
+
+    #brand {
+        font-size: 15px;
+    }
+
+    span {
+        display: block;
+    }
+}
